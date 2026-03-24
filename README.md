@@ -1,33 +1,22 @@
-# Diwali Sales Demographic Data Analysis
+# Hi there, I'm Sk Nasiruddin! 👋
 
-## 📌 Project Overview
-This project involves a comprehensive exploratory data analysis (EDA) of retail sales data during the Diwali festival period. The primary objective is to understand customer purchasing behavior, identify key demographic segments driving revenue, and pinpoint the most profitable product categories. These insights can be used to optimize future marketing campaigns and inventory management.
+### 📊 Data Professional | Aspiring Data Scientist
 
-## 🛠️ Tech Stack & Tools
-* **Programming Language:** Python
-* **Data Manipulation:** Pandas, NumPy
-* **Data Visualization:** Matplotlib, Seaborn
-* **Environment:** Jupyter Notebook
+I am an analytical problem-solver with a BCA background, currently working in data quality and spatial analytics. I specialize in taking messy, high-volume datasets and turning them into clean, actionable insights. I am actively transitioning into core Data Science roles where I can leverage statistical modeling and exploratory data analysis to solve real-world business challenges.
 
-## 📂 Dataset
-* **Description:** The dataset contains detailed transactional records, including customer demographics (Gender, Age Group, Marital Status, State, Occupation) and purchase details (Product Category, Amount Spent).
-* **Data Cleaning Performed:** * Dropped unrelated/blank columns and handled null values.
-  * Standardized data types for accurate mathematical operations.
-  * Renamed columns for better readability during analysis.
+**🌱 What I'm currently working on:**
+* Executing rigorous Quality Control (QC) on large-scale spatial datasets.
+* Building out my portfolio with Python-based Exploratory Data Analysis (EDA) projects.
+* Deepening my knowledge in Machine Learning algorithms and predictive modeling.
 
-## 📊 Key Findings & Insights
-1. **Gender Demographics:** Female customers represent a significantly higher percentage of buyers and also possess greater purchasing power compared to male customers.
-2. **Age & Occupation:** The most active buyer demographic is the 26-35 age group, predominantly working in the IT, Healthcare, and Aviation sectors.
-3. **Geographic Trends:** Customers residing in Uttar Pradesh, Maharashtra, and Karnataka generated the highest overall sales volume.
-4. **Product Preferences:** The top-selling product categories by revenue are Food, Clothing & Apparel, and Electronics & Gadgets.
+**🛠️ Tech Stack & Tools:**
+* **Languages:** Python, SQL, MySQL
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+* **Data Visualization:** Power BI
+* **Environments:** Jupyter Notebook, Google Colab
 
-## 🖼️ Visualizations
+**📫 Let's Connect:**
+* **LinkedIn:** https://www.linkedin.com/in/sknasiruddin/
+* **Email:** sknasiruddin669@gmail.com
 
-<img width="1253" height="566" alt="image" src="https://github.com/user-attachments/assets/06d0482d-6d85-43a5-a633-7b933544b1e5" />
-
-*Figure 1: Top 10 states with the highest purchasing volume.*
-
-## 🚀 How to Run This Project
-1. Clone this repository:
-   ```bash
-    https://github.com/sknasiruddin669/sknasiruddin.git
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
