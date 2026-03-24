@@ -30,4 +30,4 @@ This project involves a comprehensive exploratory data analysis (EDA) of retail 
 ## 🚀 How to Run This Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/sknasiruddin/diwali-sales-analysis.git](https://github.com/sknasiruddin/diwali-sales-analysis.git)
+    git clone [https://github.com/sknasiruddin669/sknasiruddin.git]
